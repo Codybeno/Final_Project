@@ -31,5 +31,3 @@
  <Time-derivative of height and range for the fitted trajectory>
 
   Briefly describe what is being shown in the figure.
-
-  (Below are for teams of 2-3 people)
