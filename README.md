@@ -28,6 +28,6 @@
   Briefly describe what is being shown in the figure.
 
  ## Fig. 3: Time Derivatives
- <Time-derivative of height and range for the fitted trajectory>
+ ![Screenshot 2024-04-29 155911](https://github.com/Codybeno/Final_Project/assets/167140425/61e4de83-1353-4512-899d-2960203f7672)
 
   Briefly describe what is being shown in the figure.
