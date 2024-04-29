@@ -17,13 +17,13 @@
   # Figures
 
   ## Fig. 1: Single Parameter Variation
-  <2D trajectory simulated by varying single parameter at at time>
-  <The above plot should also show the nominal trajectory>
+  ![Screenshot 2024-04-29 115444](https://github.com/Codybeno/Final_Project/assets/167140425/d5693c9a-532f-4501-9f3e-d6bee93b7c6c)
+
 
   Briefly describe what is being shown in the figure.
 
   ## Fig. 2: Monte Carlo Simulation
-  <2D trajectories simulated using random sampling of parameters, overlay polynomial fit onto plot.>
+  ![Screenshot 2024-04-29 115510](https://github.com/Codybeno/Final_Project/assets/167140425/2d089929-553c-44fb-a8c8-523f603e8b82)
 
   Briefly describe what is being shown in the figure.
 
