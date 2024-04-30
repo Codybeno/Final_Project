@@ -24,7 +24,10 @@ function randomTraj()
     % Initialize figure
     figure;
     hold on;
-    
+
+     allTimes = [];
+    allRanges = [];
+    allHeights = [];
 
     % Perform 100 simulation runs with random initial conditions
     for i = 1:100
@@ -40,9 +43,19 @@ function randomTraj()
 
         % Plot the trajectory
         plot(x(:,4), x(:,3),'LineStyle', '-');
+
+         allTimes = [allTimes; t];
+        allRanges = [allRanges; x(:,4)];
+        allHeights = [allHeights; x(:,3)];
+        hold on;
     end
 
+ pRange = polyfit(allTimes, allRanges, 9); %9th degree polynomial for range
+    pHeight = polyfit(allTimes, allHeights, 9); %9th degree polynomial for height
+
     % Configure plot
+    tFit = linspace(0, 6, 100);
+    plot(polyval(pRange, tFit), polyval(pHeight, tFit), 'k-','LineWidth', 3 ,'DisplayName', 'Trajectory');
     xlabel('Range, m');
     ylabel('Height, m');
     title('Randomized Initial Conditions Trajectories');
