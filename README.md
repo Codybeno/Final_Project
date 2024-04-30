@@ -32,7 +32,8 @@ A function that shows the derivative of the average trajectory. <br>
 A graph showing the results when varying a single parameter.
 
   ## Fig. 2: Monte Carlo Simulation
-  ![Screenshot 2024-04-29 115510](https://github.com/Codybeno/Final_Project/assets/167140425/2d089929-553c-44fb-a8c8-523f603e8b82)
+ ![Screenshot 2024-04-30 153051](https://github.com/Codybeno/Final_Project/assets/167140425/476b1c98-6d40-446f-a226-ebb98288f20a)
+
 
 A graph showing 100 ierations with random perameters for each iteration.
 
