@@ -13,17 +13,17 @@
  
   # Code Listing
 PaperPlane.m:
-
+A script that graphs all the different scenarios asked for in the problem.
 EqMotion.m:
-
+A function given that has the equation of motions for the problem.
 simVariations.m:
-
+A function that shows the results for a varying single parameter.
 randomTraj.m:
-
+A function that shows the results when generating random parameters. 
 averageTraj.m:
-
+A function that shows the average from the random 100 runs.
 derivatives.m:
-
+A function that shows the derivative of the average trajectory.
   # Figures
 
   ## Fig. 1: Single Parameter Variation
