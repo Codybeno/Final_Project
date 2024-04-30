@@ -36,7 +36,7 @@ A graph showing the results when varying a single parameter.
  ![Screenshot 2024-04-30 153051](https://github.com/Codybeno/Final_Project/assets/167140425/476b1c98-6d40-446f-a226-ebb98288f20a)
 
 
-A graph showing 100 ierations with random perameters for each iteration along with a bolded line which is the avergae of all 100.
+A graph showing 100 ierations with random perameters for each iteration along with a bolded average.
 
  ## Fig. 3: Time Derivatives
  ![Screenshot 2024-04-29 155911](https://github.com/Codybeno/Final_Project/assets/167140425/61e4de83-1353-4512-899d-2960203f7672)
