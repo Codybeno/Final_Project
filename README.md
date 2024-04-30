@@ -12,8 +12,15 @@
   *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
  
   # Code Listing
- EqMotion.m
-  
+ EqMotion.m:
+
+simVariations.m:
+
+randomTraj.m:
+
+averageTraj.m:
+
+derivatives.m:
 
   # Figures
 
