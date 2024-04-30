@@ -34,7 +34,7 @@ A graph showing the results when varying a single parameter.
   ## Fig. 2: Monte Carlo Simulation
   ![Screenshot 2024-04-29 115510](https://github.com/Codybeno/Final_Project/assets/167140425/2d089929-553c-44fb-a8c8-523f603e8b82)
 
-A graph showing 100 variations with random perameters for each variation.
+A graph showing 100 ierations with random perameters for each iteration.
 
  ## Fig. 3: Time Derivatives
  ![Screenshot 2024-04-29 155911](https://github.com/Codybeno/Final_Project/assets/167140425/61e4de83-1353-4512-899d-2960203f7672)
