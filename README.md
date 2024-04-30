@@ -12,7 +12,7 @@
   *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
  
   # Code Listing
-PaperPlane.m: /n
+PaperPlane.m: n/
 A script that graphs all the different scenarios asked for in the problem.
 EqMotion.m:
 A function given that has the equation of motions for the problem.
