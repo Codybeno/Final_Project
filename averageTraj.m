@@ -40,8 +40,8 @@ function averageTraj()
     end
 
     % Polynomial fitting
-    pRange = polyfit(allTimes, allRanges, 3); % 3rd degree polynomial for range
-    pHeight = polyfit(allTimes, allHeights, 3); % 3rd degree polynomial for height
+    pRange = polyfit(allTimes, allRanges, 9); %9th degree polynomial for range
+    pHeight = polyfit(allTimes, allHeights, 9); %9th degree polynomial for height
 
     % Plot average trajectories
     figure;
