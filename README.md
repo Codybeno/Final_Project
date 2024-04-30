@@ -7,7 +7,7 @@
   |     |Min|Nomial|Max|
   |---|---|---|---|
   |Veloctiy|2|3.55|7.5|
-  |AOA|-0.5|-0.18|0.4|
+  |FPA|-0.5|-0.18|0.4|
 
   Summarized what was accomplished in this study.  Describe 2-4 observations from simulating the flight path.
   Reference the figures below as needed.
