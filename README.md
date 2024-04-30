@@ -12,17 +12,17 @@
   *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
  
   # Code Listing
-PaperPlane.m: <br>
+[PaperPlane.m](PaperPlane.m): <br>
 A script that graphs all the different scenarios asked for in the problem. <br>
-EqMotion.m: <br>
+[EqMotion.m](EqMotion.m): <br>
 A function given that has the equation of motions for the problem. <br>
-simVariations.m: <br>
+[simVariations.m](simVariations.m): <br>
 A function that shows the results for a varying single parameter. <br>
-randomTraj.m: <br>
+[randomTraj.m](randomTraj.m): <br>
 A function that shows the results when generating random parameters. <br>
-averageTraj.m: <br>
+[averageTraj.m](averageTraj.m): <br>
 A function that shows the average from the random 100 runs. <br>
-derivatives.m: <br>
+[derivatives.m](derivatives.m): <br>
 A function that shows the derivative of the average trajectory. <br>
   # Figures
 
