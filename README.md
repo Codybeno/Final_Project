@@ -22,7 +22,7 @@ A function given that has the equation of motions for the problem. <br>
 [simVariations.m](simVariations.m): <br>
 A function that shows the results for a varying single parameter. <br>
 [randomTraj.m](randomTraj.m): <br>
-A function that shows the results when generating random parameters for a 100 iterations along with the average of all 100. <br>
+A function that shows the results when generating random parameters for a 100 iterations along with the average. <br>
 [derivatives.m](derivatives.m): <br>
 A function that shows the derivative of the average trajectory. <br>
   # Figures
