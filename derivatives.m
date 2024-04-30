@@ -38,20 +38,17 @@ function derivatives()
         allRanges = [allRanges; x(:,4)];
         allHeights = [allHeights; x(:,3)];
     end
-
     % Polynomial fitting
-    pRange = polyfit(allTimes, allRanges, 3); % 3rd degree polynomial for range
-    pHeight = polyfit(allTimes, allHeights, 3); % 3rd degree polynomial for height
-
-    % Compute derivatives
+   pRange = polyfit(allTimes, allRanges, 9); % 9th degree polynomial for range
+   pHeight = polyfit(allTimes, allHeights, 9); % 9th degree polynomial for height
+    
+   %Find derivatives
     dpRange = polyder(pRange);
     dpHeight = polyder(pHeight);
 
-    % Time vector for plotting derivatives
-    tFine = linspace(0, 6, 200);
-
     % Plot the derivatives
     figure;
+    tFine = linspace(0, 6, 200);
     subplot(2,1,1);
     plot(tFine, polyval(dpRange, tFine), 'r-');
     title('d(Range)/d(Time)');
