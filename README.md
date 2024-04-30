@@ -12,7 +12,7 @@
   *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
  
   # Code Listing
-  EqMotion.m 
+ EqMotion.m
   
 
   # Figures
