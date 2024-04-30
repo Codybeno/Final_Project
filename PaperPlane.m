@@ -62,5 +62,4 @@
 
 simVariations();
 randomTraj();
-averageTraj();
 derivatives();
