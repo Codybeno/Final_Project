@@ -9,10 +9,9 @@
   |Veloctiy|2|3.55|7.5|
   |FPA|-0.5|-0.18|0.4|
 
-  Summarized what was accomplished in this study.  Describe 2-4 observations from simulating the flight path.
+  In this study we were able to simulate the flight trajectory for velocity and flight path angle with varying conditions. We were also able to simulate 100 random trajectories with randwom values. We then plotted all of those with an average by polynomial fitting. We finished off with taking the derivative of the average.
+  Describe 2-4 observations from simulating the flight path.
   Reference the figures below as needed.
-
-  *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
  
   # Code Listing
 [PaperPlane.m](PaperPlane.m): <br>
