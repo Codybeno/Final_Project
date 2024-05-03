@@ -10,8 +10,7 @@
   |FPA|-0.5|-0.18|0.4|
 
   In this study we were able to simulate the flight trajectory for velocity and flight path angle with varying conditions. We were also able to simulate 100 random trajectories with randwom values. We then plotted all of those with an average by polynomial fitting. We finished off with taking the derivative of the average. <br>
-  We can see in he first figure when simulating 
-  Reference the figures below as needed.
+  We can see in the first figure that with the velcoty we have three very different line compared to the flight path angle where the three lines are not very different. We also see in that first figure with the high velocity look very similar to the 100 random trajectories and the average overall. Looking at the last figure we can see how much the height changes compared to the range, which makes sense when we look at the second figure and see the range is more constant than the height.
  
   # Code Listing
 [PaperPlane.m](PaperPlane.m): <br>
